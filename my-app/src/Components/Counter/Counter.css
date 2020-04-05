@@ -7,6 +7,19 @@ button {
 }
 
 .count {
+    font-size: 200px;
+    padding: 15px 30px;
+    width: 200px;
+}
+
+.reset{
+    background-color: red;
     font-size: 16px;
+    padding: 15px 30px;
+    color: white;
+    width: 200px;
+}
+
+body{
     padding: 15px 30px;
 }
